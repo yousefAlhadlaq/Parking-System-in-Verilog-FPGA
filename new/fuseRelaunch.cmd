@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/no-mo/Desktop/COE 203/new/Normal_Parking_counter_isim_beh.exe" -prj "C:/Users/no-mo/Desktop/COE 203/new/Normal_Parking_counter_beh.prj" "work.Normal_Parking_counter" "work.glbl" 
