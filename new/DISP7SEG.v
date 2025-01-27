@@ -2,6 +2,7 @@
 module DISP7SEG(
     input clk
 	
+	
     ,input [3:0] D0
     ,input [3:0] D1
     ,input [3:0] D2
